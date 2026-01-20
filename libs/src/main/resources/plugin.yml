@@ -1,0 +1,4 @@
+name: libs
+version: '${project.version}'
+main: me.isoldkidsonebay.libs.Libs
+load: STARTUP
